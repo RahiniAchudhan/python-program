@@ -35,7 +35,7 @@ print("Swapped values are:",x,y)
 ```
 # OUTPUT:
 
-
+![Screenshot (184)](https://github.com/RahiniAchudhan/python-program/assets/145742838/39fc7e00-290b-4ee7-9914-80394a08b2ae)
 
 # RESULT:
 
